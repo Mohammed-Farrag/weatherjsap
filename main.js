@@ -54,13 +54,3 @@ function dataBuilder(){
     return `${day} ${date} ${month} ${year}`;
 
 }
-
-
-
-
-
-function currencyRapidApi(){
-    console.info("hi");
-}
-
-currencyRapidApi();
